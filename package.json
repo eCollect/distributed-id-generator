@@ -1,0 +1,26 @@
+{
+  "name": "distributed-id-generator",
+  "version": "0.5.2",
+  "description": "Prefixed id generator over distributed services",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eCollect/distributed-id-generator.git"
+  },
+  "author": "eCollect AG",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.9.1"
+  },
+  "dependencies": {
+    "node-fe1-fpe": ">=0.0.5",
+    "redis": "^2.8.0"
+  }
+}
