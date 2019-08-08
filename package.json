@@ -1,6 +1,6 @@
 {
   "name": "distributed-id-generator",
-  "version": "0.5.42",
+  "version": "0.5.43",
   "description": "Prefixed id generator over distributed services",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
