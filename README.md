@@ -1,4 +1,4 @@
-# distributed-id-generator v0.6.0
+# distributed-id-generator v0.6.1
 
 System wide singleton distributed ID generator.
 
